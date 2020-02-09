@@ -1,0 +1,12 @@
+game: "Kingdom Come: Deliverance"
+api: 1
+steamID: 379430
+uid: com.thegreatcabbage.kcd
+author: TheGreatCabbage
+pluginDirectory: "kcd"
+
+graphicsConfig: TODO
+
+gameDirectory: "KingdomComeDeliverance"
+verificationPaths:
+  - Bin/Win64/KingdomCome.exe
