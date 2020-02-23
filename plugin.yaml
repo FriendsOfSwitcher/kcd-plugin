@@ -3,8 +3,10 @@ api: 1
 steamID: 379430
 uid: com.thegreatcabbage.kcd
 author: TheGreatCabbage
-pluginDirectory: "kcd"
-
+packageName: "kcd"
+features:
+  - graphics
+  
 graphicsConfig: TODO
 
 gameDirectory: "KingdomComeDeliverance"
