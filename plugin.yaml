@@ -6,8 +6,12 @@ author: TheGreatCabbage
 packageName: "kcd"
 features:
   - graphics
-  
-graphicsConfig: TODO
+  - keymaps
+  - saves
+
+graphicsConfig: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\profiles\default\attributes.xml
+keymapConfig: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\profiles\default\actionmaps.xml
+saves: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\saves
 
 gameDirectory: "KingdomComeDeliverance"
 verificationPaths:
