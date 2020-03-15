@@ -11,7 +11,7 @@ features:
 
 graphicsConfig: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\profiles\default\attributes.xml
 keymapConfig: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\profiles\default\actionmaps.xml
-saves: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\saves
+savesFolder: C:\Users\$!USERNAME!$\Saved Games\kingdomcome\saves
 
 gameDirectory: "KingdomComeDeliverance"
 verificationPaths:
